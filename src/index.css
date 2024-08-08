@@ -28,6 +28,11 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  .App{
+  background-color: black;
+  padding: 100%;
+  color: white;
+}
 }
 
 h1 {
